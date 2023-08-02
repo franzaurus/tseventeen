@@ -1,5 +1,5 @@
 ## About
-Tseventeen is a re-creation of Twenty Seventeen classic theme to a block theme using TT3’s default style as the baseline. This theme is built completely in the Site Editor with a very minimum custom CSS. This means the theme is built completely without codes.
+Tseventeen is a re-creation of the Twenty Seventeen classic theme as a block theme, using TT3's default style as the baseline. This theme is built entirely in the Site Editor with very minimal custom CSS. This means the theme is constructed entirely without code.
 
 ## Screenshots
 # Full Page Homepage
