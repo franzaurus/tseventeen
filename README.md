@@ -13,10 +13,10 @@ Tseventeen block is a re-creation of the Twenty Seventeen classic theme as a blo
 ![Recreate Twenty Seventeen classic theme as a block theme](https://franz.spacebarweb.net/recreate-twenty-seventeen-classic-theme-as-a-block-theme/)
 
 ## Screenshots
-# Full Page Homepage
+### Full Page Homepage
 ![tseventeen-full-homepage](https://github.com/franzaurus/tseventeen/assets/79677758/394d4a7e-eb81-4e95-aa3c-d79b8ef35da6)
 
-# Page
+### Page
 ![tseventeen-about-page](https://github.com/franzaurus/tseventeen/assets/79677758/eac67b60-52f9-4eeb-9f54-c971d850bb20)
 
 # Post
