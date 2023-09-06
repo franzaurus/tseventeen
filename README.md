@@ -10,10 +10,10 @@ Tseventeen block is a re-creation of the Twenty Seventeen classic theme as a blo
 6. Set both the homepage and the blog home page as static pages under the Reading options.   
 
 ## My blog post documenting the process
-![Recreate Twenty Seventeen classic theme as a block theme](https://franz.spacebarweb.net/recreate-twenty-seventeen-classic-theme-as-a-block-theme/)
+[Recreate Twenty Seventeen classic theme as a block theme](https://franz.spacebarweb.net/recreate-twenty-seventeen-classic-theme-as-a-block-theme/)
 
 ## Temporary demo site
-![Demo](https://bbt.dwrf.my.id/)
+[URL](https://bbt.dwrf.my.id/)
 
 ## Screenshots
 ### Full Page Homepage
